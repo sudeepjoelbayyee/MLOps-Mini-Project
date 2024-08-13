@@ -3,3 +3,9 @@ dagshub
 dvc
 nltk
 ipykernel
+ipywidgets
+xgboost
+gensim
+keras
+tensorflow
+wget
