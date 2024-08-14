@@ -1,5 +1,5 @@
 
-# **Sentiment Analysis with Machine Learning Pipeline**
+# **Sentiment Analysis with MLOps**
 
 This repository contains a complete end-to-end machine learning pipeline designed for sentiment analysis. Leveraging tools like MLflow, DagsHub, DVC, Flask, and Cookiecutter, this project showcases the journey from experimentation to model deployment in a reproducible and scalable manner.
 
