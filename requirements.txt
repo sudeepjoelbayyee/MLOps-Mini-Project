@@ -153,7 +153,6 @@ pygtrie==2.5.0
 pyparsing==3.1.2
 python-dateutil==2.9.0.post0
 pytz==2024.1
-pywin32==306
 PyYAML==6.0.2
 pyzmq==26.1.0
 querystring-parser==1.2.4
