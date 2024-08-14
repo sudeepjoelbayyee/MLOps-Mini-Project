@@ -27,30 +27,6 @@ This project focuses on building a sentiment analysis model using various machin
 - **Model Deployment:** The best model is deployed using Flask for real-time sentiment analysis.
 - **Collaboration:** Enabled through DagsHub, allowing for team-based experiments.
 
-## **Directory Structure**
-
-The project is organized as follows:
-
-```
-├── notebooks/                   # Jupyter notebooks for experimentation
-├── src/                         # Source code for data processing, feature engineering, model building
-│   ├── data_ingestion.py        # Data ingestion script
-│   ├── data_preprocessing.py    # Data preprocessing script
-│   ├── feature_engineering.py   # Feature engineering script
-│   ├── model_building.py        # Model building script
-│   ├── model_evaluation.py      # Model evaluation script
-│   ├── register_model.py        # Model registration script
-├── data/                        # Data storage folder (managed by DVC)
-│   ├── raw/                     # Raw data files
-│   ├── interim/                 # Interim data files (after preprocessing)
-│   ├── processed/               # Processed data ready for modeling
-├── models/                      # Folder containing the serialized models
-├── dvc.yaml                     # DVC pipeline configuration
-├── params.yaml                  # Parameters configuration
-├── requirements.txt             # List of dependencies
-├── README.md                    # Project documentation
-└── app.py                       # Flask application for deployment
-```
 
 ## **Installation**
 
@@ -141,7 +117,3 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 ## **License**
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` content is structured to provide a clear, detailed overview of your project, while also being informative enough to guide others who might want to understand, use, or contribute to your work.
