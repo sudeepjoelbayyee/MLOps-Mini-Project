@@ -109,6 +109,7 @@ All source files are stored in GitHub, while datasets are versioned in a local T
 - **Integrating CI/CD:** Set up continuous integration and deployment pipelines.
 - **Advanced Feature Engineering:** Experiment with more sophisticated techniques like Word2Vec and GloVe.
 - **Model Interpretability:** Incorporate tools like SHAP and LIME to make model predictions interpretable.
+- **Docker**
 
 ## **Contributing**
 
